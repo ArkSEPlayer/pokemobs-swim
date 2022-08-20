@@ -2,6 +2,12 @@
   "replace": false,
   "values": [
     "pokecube:rhydon",
-    "pokecube:rhyperior"
+    "pokecube:rhyperior",
+    "pokecube:latias",
+    "pokecube:latias_mega",
+    "pokecube:latios",
+    "pokecube:latios_mega",
+    "pokecube:garchomp",
+    "pokecube:garchomp_mega"
   ]
 }
