@@ -48,6 +48,12 @@
     "pokecube:eiscue_noice",
     "pokecube:arctovish",
 	"pokecube:basculegion_male",
-	"pokecube:basculegion_female"
+	"pokecube:basculegion_female",
+    "pokecube:latias",
+    "pokecube:latias_mega",
+    "pokecube:latios",
+    "pokecube:latios_mega",
+    "pokecube:garchomp",
+    "pokecube:garchomp_mega"
   ]
 }
